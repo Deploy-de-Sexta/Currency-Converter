@@ -1,0 +1,21 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "traditional": "node traditional/run.js",
+    "dependency-injection": "node dependency-injection/run.js",
+    "ioc": "node ioc/run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cross-env": "^7.0.2",
+    "jest": "^26.4.2",
+    "node-fetch": "^2.6.0"
+  }
+}
