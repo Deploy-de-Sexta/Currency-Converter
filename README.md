@@ -1,5 +1,7 @@
 # Currency Converter
 
+![Node.js CI](https://github.com/Deploy-de-Sexta/Currency-Converter/workflows/Node.js%20CI/badge.svg)
+
 ## Setup
 
 Grab an API key on [free.currencyconverterapi.com/free-api-key](https://free.currencyconverterapi.com/free-api-key).
